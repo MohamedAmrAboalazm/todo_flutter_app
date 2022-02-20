@@ -8,12 +8,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://drive.google.com/file/d/1vc_0YJ9IX2Arn--2waFlvB0g1KW4D5HI/view?usp=sharing">
-    <img src="https://e7.pngegg.com/pngimages/43/996/png-clipart-computer-icons-computer-software-education-tools-text-rectangle.png" alt="Logo" width="100" height="100">
+  <a href="https://drive.google.com/file/d/1v_c0nujwu630S7IBGxBtyWESLVRsw8LZ/view?usp=sharing">
+    <img src="https://play-lh.googleusercontent.com/92xIZAW-mdwucFX1v8kyTXlLVgZfLczHv8XCVOH1tFc0M3cTRI4q9qJLUM96PqCrgWjc" alt="Logo" width="100" height="100">
   </a>
 
-  <a href="https://drive.google.com/file/d/1vc_0YJ9IX2Arn--2waFlvB0g1KW4D5HI/view?usp=sharing">
-      <h3 align="center">Shop App</h3>
+  <a href="https://drive.google.com/file/d/1v_c0nujwu630S7IBGxBtyWESLVRsw8LZ/view?usp=sharing">
+      <h3 align="center">Todo App</h3>
 
   </a>
 
